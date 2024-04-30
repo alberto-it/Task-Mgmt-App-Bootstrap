@@ -19,7 +19,7 @@ A prototype for a web-based application using Bootstrap that allows users to man
 Copy the repository containing the eight HTML files and one image file, and open index.html.
 
 ## Notes
-* Clicking the Login link and getting past the Login Page takes the user to the Dashboard Page.
+* Clicking the Login link on the navigation bar (top right) and getting past the fake Login Page takes the user to the Dashboard Page.
 * To see the Task Details Page, click the "Research Travel" link on the Task Dashboard Page. The remaining dummy tasks on the page will be unresponsive.
 * Clicking the "Update Status" link on the Task Details Page will send the user to a fake <b>Currently Under Construction</b> page.
 * Clicking the "Create Task" button on the Task Creation Page will take the user to a fake <b>Task Created Successfully</b> page.
